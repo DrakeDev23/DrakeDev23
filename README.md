@@ -1,6 +1,6 @@
 # Hi 👋, I'm Drake Delos Reyes
 
-### A passionate Developer 
+### A passionate Software Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=DrakeDev23&color=0e75b6)
 
