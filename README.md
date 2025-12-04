@@ -65,6 +65,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  </a>
 
   <br/><br/>
 
