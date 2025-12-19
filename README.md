@@ -44,6 +44,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
   </a>
+  <!-- Vue.js -->
+<a href="https://vuejs.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/>
+</a>
   <br/><br/>
 
   <!-- 🎨 Frontend -->
@@ -68,6 +72,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </a>
+  <!-- Vue.js -->
+<a href="https://vuejs.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/>
+</a>
 
   <br/><br/>
 
