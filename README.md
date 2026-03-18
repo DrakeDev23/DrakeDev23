@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=DrakeDev23&color=0e75b6)
 
-- 🌱 Currently learning **FASTAPI, Node.js**
+- 🌱 Currently learning **Node.js**
 - 📫 Reach me at **maccogoth@gmail.com**
 
 ---
@@ -42,13 +42,28 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/php)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/csharp)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/mysql)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/cplusplus)
 
 ---
 
-## ⚙️ Tools
+## ⚙️ Tools & Platforms
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/figma)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/git)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/linux)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/amplify)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
+
+---
+
+## 🛡️ Cybersecurity Tools
+[![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)]()
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
+[![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white)]()
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)]()
+[![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)]()
