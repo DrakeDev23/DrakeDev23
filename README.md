@@ -1,9 +1,11 @@
+<p align="center">
+
 # Hi 👋, I'm Drake Delos Reyes
 ### A passionate Software Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=DrakeDev23&color=0e75b6)
 
-- 🌱 Currently learning **Node.js**
+- 🌱 Currently learning **FASTAPI, Node.js**  
 - 📫 Reach me at **maccogoth@gmail.com**
 
 ---
@@ -67,3 +69,5 @@
 [![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white)]()
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)]()
 [![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)]()
+
+</p>
