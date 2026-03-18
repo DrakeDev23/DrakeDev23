@@ -26,7 +26,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- ⭐ Daily Used -->
   <strong>⭐ Daily Used:</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
@@ -48,7 +47,6 @@
   </a>
   <br/><br/>
 
-  <!-- 🎨 Frontend -->
   <strong>🎨 Frontend:</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
@@ -67,7 +65,6 @@
   </a>
   <br/><br/>
 
-  <!-- 🛠️ Backend -->
   <strong>🛠️ Backend:</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
@@ -86,7 +83,6 @@
   </a>
   <br/><br/>
 
-  <!-- ⚙️ Tools -->
   <strong>⚙️ Tools:</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
@@ -102,24 +98,23 @@
   </a>
   <br/><br/>
 
-  <!-- 🛡️ Cybersecurity Tools -->
   <strong>🛡️ Cybersecurity Tools:</strong><br/>
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+    <img src="assets/nmap.png" alt="Nmap" width="40" height="40"/>
   </a>
   <a href="https://metasploit.help.rapid7.com/docs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Metasploit_logo.svg" alt="Metasploit" width="40" height="40"/>
+    <img src="assets/metasploit.png" alt="Metasploit" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Burp_Suite_logo.png" alt="Burp Suite" width="40" height="40"/>
+    <img src="assets/burpsuite.png" alt="Burp Suite" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Wireshark_logo.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="assets/wireshark.png" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/THC-Hydra_logo.png" alt="Hydra" width="40" height="40"/>
+    <img src="assets/hydra.png" alt="Hydra" width="40" height="40"/>
   </a>
   <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/John_the_Ripper_logo.png" alt="John the Ripper" width="40" height="40"/>
+    <img src="assets/johntheripper.png" alt="John the Ripper" width="40" height="40"/>
   </a>
 </p>
