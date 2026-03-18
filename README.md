@@ -32,6 +32,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/bootstrap)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/react)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/tailwind)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 
 ---
 
