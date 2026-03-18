@@ -65,7 +65,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
-   <a href="https://vuejs.org" target="_blank">
+  <a href="https://vuejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/>
   </a>
 </div>
