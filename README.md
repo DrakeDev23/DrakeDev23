@@ -123,3 +123,31 @@
   </a>
   
 </p>
+
+<!-- 🛡️ Cybersecurity Tools -->
+<strong>🛡️ Cybersecurity Tools:</strong><br/>
+
+<!-- Nmap -->
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nmap" alt="nmap" width="40" height="40"/>
+</a>
+<!-- Metasploit -->
+<a href="https://metasploit.help.rapid7.com/docs" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=metasploit" alt="metasploit" width="40" height="40"/>
+</a>
+<!-- Burp Suite -->
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=burpsuite" alt="burpsuite" width="40" height="40"/>
+</a>
+<!-- Wireshark -->
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=wireshark" alt="wireshark" width="40" height="40"/>
+</a>
+<!-- Hydra -->
+<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=hydra" alt="hydra" width="40" height="40"/>
+</a>
+<!-- John the Ripper -->
+<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=johntheripper" alt="john the ripper" width="40" height="40"/>
+</a>
