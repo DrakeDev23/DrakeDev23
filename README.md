@@ -5,7 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=DrakeDev23&color=0e75b6)
 
-- 🌱 Currently learning **FASTAPI, Node.js**  
+- 🌱 Currently learning **Node.js**  
 - 📫 Reach me at **maccogoth@gmail.com**
 
 ---
