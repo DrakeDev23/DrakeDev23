@@ -10,6 +10,11 @@
 📫 Reach me at <b>maccogoth@gmail.com</b>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
+</div>
+
 </div>
 
 ---
