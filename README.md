@@ -3,7 +3,6 @@
 <h1>Hi 👋, I'm Drake Delos Reyes</h1>
 <h3>A passionate Software Engineer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=DrakeDev23&color=0e75b6" />
 
 <p>
 🌱 Currently learning <b>Node.js</b><br>
