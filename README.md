@@ -15,6 +15,12 @@
 </div>
 
 </div>
+<br>
+<div style="margin-bottom: 50px;" align="center">
+    <img width="380px"
+         src="https://awesome-github-stats.azurewebsites.net/user-stats/DrakeDev23?cardType=level&theme=radical&fontFamily=&preferLogin=true"
+         alt="GitHub streak for DrakeDev23" />
+</div>
 
 ---
 
@@ -98,6 +104,7 @@
 </a>
 <a href="#"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 
 </div>
 
