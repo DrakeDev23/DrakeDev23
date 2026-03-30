@@ -58,9 +58,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
-<a href="https://vuejs.org">
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-</a>
+
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+
 
 </div>
 
