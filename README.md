@@ -5,7 +5,7 @@
 
 
 <p>
-🌱 Currently learning <b>Node.js</b><br>
+🌱 Currently learning <b>AI/ML</b><br>
 📫 Reach me at <b>maccogoth@gmail.com</b>
 </p>
 
