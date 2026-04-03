@@ -138,6 +138,7 @@
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go_Buster-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
 
