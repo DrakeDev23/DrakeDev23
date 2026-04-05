@@ -119,6 +119,9 @@
 <img src="https://img.shields.io/badge/Go_Buster-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
 </div>
 
