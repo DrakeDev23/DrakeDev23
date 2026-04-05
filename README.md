@@ -22,28 +22,6 @@
          alt="GitHub streak for DrakeDev23" />
 </div>
 
----
-
-<div align="center">
-
-<h2>Connect with me</h2>
-
-<a href="https://github.com/DrakeDev23">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/0_dr4k3/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/D3f4vltV">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/stephen.mart.98">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
@@ -143,6 +121,29 @@
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
 
 </div>
+
+---
+
+<div align="center">
+
+<h2>Connect with me</h2>
+
+<a href="https://github.com/DrakeDev23">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/0_dr4k3/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://x.com/D3f4vltV">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/stephen.mart.98">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 
 ![](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
