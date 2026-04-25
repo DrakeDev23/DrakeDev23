@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
+  <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="drake" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
 </div>
 
@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tools_and_Platforms-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Daily Used" />
-
+<img src="https://img.shields.io/badge/Daily Used-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Daily Used" />
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
@@ -111,7 +111,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tools_and_Platforms-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Cybersecurity tools" />
+<img src="https://img.shields.io/badge/Cybersecurity_tools-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Cybersecurity tools" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
