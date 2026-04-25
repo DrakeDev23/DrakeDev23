@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h2>⭐ Daily Used</h2>
+<h2> Daily Used</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<h2>🎨 Frontend</h2>
+  <img src="https://img.shields.io/badge/Frontend-374151?style=for-the-badge&color=000000&labelColor=000000"" alt="Frontend" />
 
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<h2>🛠️ Backend</h2>
+  <img src="https://img.shields.io/badge/Backend-374151?style=for-the-badge&color=000000&labelColor=000000"" alt="Backend" />
 
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/aspnet/">
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<h2>⚙️ Tools & Platforms</h2>
+  <img src="https://img.shields.io/badge/Tools_and_Platforms-374151?style=for-the-badge&color=000000&labelColor=000000"" alt="Tools and Platforms" />
 
 <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<h2>🛡️ Cybersecurity Tools</h2>
+<h2> Cybersecurity Tools</h2>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
