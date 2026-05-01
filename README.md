@@ -1,6 +1,10 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%20Drake&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20Aspiring%20Cybersecurity%20Enthusiast&descSize=20&descAlignY=55)](https://github.com/DrakeDev23)
 <div align="center">
 
+<a rel="external" href="https://tryhackme.com/p/maccogoth" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/maccogoth.png" alt="TryHackMe Profile Badge">
+</a>
+
 <h3>A passionate Cybersecurity Enthusiast</h3>
 
 <p>
