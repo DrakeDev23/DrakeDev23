@@ -5,6 +5,10 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/maccogoth.png" alt="TryHackMe Profile Badge">
 </a>
 
+## 🔐 Hack The Box
+
+[Visit my HTB Profile](https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70)
+
 <h3>A passionate Cybersecurity Enthusiast</h3>
 
 <p>
