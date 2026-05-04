@@ -1,13 +1,17 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%20Drake&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20Aspiring%20Cybersecurity%20Enthusiast&descSize=20&descAlignY=55)](https://github.com/DrakeDev23)
 <div align="center">
 
-<a rel="external" href="https://tryhackme.com/p/maccogoth" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/maccogoth.png" alt="TryHackMe Profile Badge">
+ <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/maccogoth" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/maccogoth.png" alt="TryHackMe Profile Badge" />
+  </a>
+
+<br>
+  <!-- Hack The Box -->
+
+<a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70" target="_blank">
+  <img src="https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
-
-## 🔐 Hack The Box
-
-[Visit my HTB Profile](https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70)
 
 <h3>A passionate Cybersecurity Enthusiast</h3>
 
