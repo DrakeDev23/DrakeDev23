@@ -105,6 +105,33 @@
 ---
 
 <div align="center">
+ <p align="center">
+  <img src="https://img.shields.io/badge/Others-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Others" />
+
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  </a>
+
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
+  </a>
+
+  <!--
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
+  -->
+
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  </a>
+</p>
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Tools_and_Platforms-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Tools and Platforms" />
 
