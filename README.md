@@ -4,7 +4,7 @@ class Drake:
     def __init__(self):
         self.name = "Drake Delos Reyes"
         self.course = "BS Information Technology"
-        self.role = "Software Engineer & Cybersecurity Enthusiast"
+        self.role = "Cybersecurity Enthusiast"
         self.learning = "Artificial Intelligence / Machine Learning"
         self.email = "maccogoth@gmail.com"
         self.os = "Windows | Linux"
