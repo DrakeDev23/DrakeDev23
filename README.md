@@ -49,11 +49,7 @@ print(me.motto())
 
 </div>
 <br>
-<div style="margin-bottom: 50px;" align="center">
-    <img width="380px"
-         src="https://awesome-github-stats.azurewebsites.net/user-stats/DrakeDev23?cardType=level&theme=radical&fontFamily=&preferLogin=true"
-         alt="GitHub streak for DrakeDev23" />
-</div>
+
 
 
 <div align="center">
