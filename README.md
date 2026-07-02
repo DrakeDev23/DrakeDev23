@@ -4,7 +4,7 @@ class Drake:
     def __init__(self, name, course, role, learning, email, os):  
         self.name = name                                                      #+-:-+*@@%###%#*
         self.course = course                                                #%##*+=-*#%%@@@@@%##
-        self.role = role                                                   %###%%%%%#+=*#%%@@@##%
+        self.role = role                                                   ###%%%%%#+=*#%%@@@##%
         self.learning = learning                                          #####%@@%#*-. .:=+*%@@%%
         self.email = email                                                ##%%%@@@#+-.   .:--+#@@#
         self.os = os                                                      #%@@@@@*++++**+---=**#%%
