@@ -1,4 +1,26 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%20Drake&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Programmer%20|%20Aspiring%20Cybersecurity%20Engineer&descSize=20&descAlignY=55)](https://github.com/DrakeDev23)
+
+```python
+class Drake:
+    def __init__(self):
+        self.name = "Drake Delos Reyes"
+        self.course = "BS Information Technology"
+        self.role = "Software Engineer & Cybersecurity Enthusiast"
+        self.learning = "Artificial Intelligence / Machine Learning"
+        self.email = "maccogoth@gmail.com"
+        self.os = "Windows | Linux"
+
+    def motto(self):
+        return "Code. Learn. Build. Repeat."
+
+me = Drake()
+print(me.motto())
+```
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DrakeDev23&theme=tokyonight&hide_border=true"/>
+
+
+</div>
 <div align="center">
 
  <!-- TryHackMe -->
@@ -21,7 +43,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="drake" />
+  <img src="https://komarev.com/ghpvc/?username=DrakeDev23&label=Profile%20views&color=0e75b6&style=flat" alt="drake" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
 </div>
 
