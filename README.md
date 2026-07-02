@@ -10,7 +10,7 @@ class Drake:
         self.os = os                                                      #%@@@@@*++++**+---=**#%%
                                                                           #%@@@@+--=+-+==-:++===%
     def motto(self):                                                      #%%@@#:::-====-. .+#*+=
-        return "Code. Learn. Build. Repeat."                              #====+*:::........::----
+        return "Code Learn Build Repeat"                                  #====+*:::........::----
                                                                           #===+==---:..  -+==+----
 me = Drake(                                                               #:-=+==---:....-===-::-
     "Drake Delos Reyes",                                                   #--==-----=**++++++--
