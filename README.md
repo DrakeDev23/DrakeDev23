@@ -49,20 +49,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
   <img src="https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
-<h3>A passionate Cybersecurity Enthusiast</h3>
 
-<p>
-🌱 Currently learning <b>AI/ML</b><br>
-📫 Reach me at <b>maccogoth@gmail.com</b>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrakeDev23&label=Profile%20views&color=0e75b6&style=flat" alt="drake" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
-</div>
-
-</div>
-<br>
 
 
 
