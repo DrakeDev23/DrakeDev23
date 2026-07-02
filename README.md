@@ -1,28 +1,33 @@
 
 ```python
-class Drake:
-    def __init__(self, name, course, role, learning, email, os):
-        self.name = name
-        self.course = course
-        self.role = role
-        self.learning = learning
-        self.email = email
-        self.os = os
-
-    def motto(self):
-        return "Code. Learn. Build. Repeat."
-
-
-me = Drake(
-    "Drake Delos Reyes",
-    "BS Information Technology",
-    "Cybersecurity Enthusiast",
-    "Artificial Intelligence / Machine Learning",
-    "maccogoth@gmail.com",
-    "Windows | Linux"
-)
-
-print(me.motto())
+class Drake:                         
+    def __init__(self, name, course, role, learning, email, os):  
+        self.name = name                                                      #+-:-+*@@%###%#*
+        self.course = course                                                #%##*+=-*#%%@@@@@%##
+        self.role = role                                                   %###%%%%%#+=*#%%@@@##%
+        self.learning = learning                                          #####%@@%#*-. .:=+*%@@%%
+        self.email = email                                                ##%%%@@@#+-.   .:--+#@@#
+        self.os = os                                                      #%@@@@@*++++**+---=**#%%
+                                                                          #%@@@@+--=+-+==-:++===%
+    def motto(self):                                                      #%%@@#:::-====-. .+#*+=
+        return "Code. Learn. Build. Repeat."                              #====+*:::........::----
+                                                                          #===+==---:..  -+==+----
+me = Drake(                                                               #:-=+==---:....-===-::-
+    "Drake Delos Reyes",                                                   #--==-----=**++++++--
+    "BS Information Technology",                                              #==--=----===---
+    "Cybersecurity Enthusiast",                                               #-=++==----==---
+    "Artificial Intelligence / Machine Learning",                              #---==+******+==
+    "maccogoth@gmail.com",                                                    #----========-
+    "Windows | Linux"                                                         #:------=--==--
+)                                                                           #*::--------===-=*#
+                                                                     #:-+##%#----------==-=+%%#%%##*-:
+print(me.motto())                                                #:::::=#%%%%%*=-------====+%%%%%%%#+-==+
+                                                              # ...::-===+++*#%%@%#+=------=*%@@%%@@@@%%*+++
+                                                             #-------=+*#+-*#%%@@@@@@%%###%@@@@@%%@@@@@%#+++*
+                                                             #**+++=+++++*#++*%%@@@@@@@@@@@@@@@@@@%%@@@@%#**#*
+                                                             #+*##*++#%#+*#***#%@@@@@@@@@@@@@@@@@@@@@@@@@%*%#*@
+                                                             #+*#%#**#%%*******%%@@@@@@@@@@@@@@@@@@@@@@@%%%@%%%
+                                                             #**#%%%%#%%#*#*+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@#@%
 ```
 <div align="center">
 
