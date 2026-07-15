@@ -31,7 +31,12 @@ print(me.motto())                                                #:::::=#%%%%%*=
 ```
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DrakeDev23&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/commits.svg" alt="Commits Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/stars.svg" alt="Stars Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/prs.svg" alt="PRs Banner" width="22%">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/repos.svg" alt="Repos Banner" width="22%">
+</p>
 
 
 </div>
