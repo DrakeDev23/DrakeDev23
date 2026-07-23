@@ -65,6 +65,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
@@ -87,7 +88,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 <div align="center">
 
 <img src="https://img.shields.io/badge/Frontend-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Frontend" />
-
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
