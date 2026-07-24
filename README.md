@@ -69,9 +69,6 @@ print(me.motto())                                                #:::::=#%%%%%*=
 <a href="https://developer.mozilla.org/en-US/docs/Web/python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/csharp">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
