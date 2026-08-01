@@ -101,7 +101,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Backend" />
+<img src="https://img.shields.io/badge/Backend_&_Databases-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Backend & Databases" />
 
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/aspnet/">
@@ -109,17 +109,37 @@ print(me.motto())                                                #:::::=#%%%%%*=
 </a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+<a href="#"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>    </a>
+<a href="https://www.sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</a>
+<a href="https://redis.io/">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
+<a href="https://neon.tech/">
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white"/>
+</a>
 
+<a href="https://supabase.com/">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</a>
 
 </div>
 
