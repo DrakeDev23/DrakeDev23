@@ -190,6 +190,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
 
 ---
