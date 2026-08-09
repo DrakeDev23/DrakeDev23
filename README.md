@@ -85,7 +85,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Frontend" />
+<img src="https://img.shields.io/badge/Frontend-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Frontend" /><br>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -147,7 +147,7 @@ print(me.motto())                                                #:::::=#%%%%%*=
 
 <div align="center">
  <p align="center">
-  <img src="https://img.shields.io/badge/Others-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Others" />
+  <img src="https://img.shields.io/badge/Others-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Others" /><br>
 
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
@@ -198,19 +198,22 @@ print(me.motto())                                                #:::::=#%%%%%*=
 <br>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zenmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go_Buster-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python">
+<a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus">
+<a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 </div>
 
 ---
