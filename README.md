@@ -39,21 +39,21 @@ PORT      STATE   SERVICE
 
 **Core Languages & Logic**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php&perline=4" />
 
 </td>
 <td align="center" width="33%">
 
 **Frameworks & Web**
 
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,fastapi,dotnet,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,fastapi,dotnet,html,css&perline=4" />
 
 </td>
 <td align="center" width="33%">
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,docker,aws,vercel,netlify,github" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,docker,aws,vercel,netlify,github&perline=4" />
 
 </td>
 </tr>
