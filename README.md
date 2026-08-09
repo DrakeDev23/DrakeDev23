@@ -51,10 +51,10 @@ PORT      STATE   SERVICE
 </td>
 <td align="center" width="33%">
 
-**Databases & Cloud**
+**Databases & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,docker,aws,vercel,netlify,github&perline=4" />
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,supabase,docker,aws,vercel,cloudflare,netlify,github&perline=4" />
+<img src="https://cdn.simpleicons.org/neon/00E599" width="40" height="40" alt="Neon"/>
 </td>
 </tr>
 </table>
@@ -96,9 +96,6 @@ PORT      STATE   SERVICE
 
 <img src="https://skillicons.dev/icons?i=figma,git,postman" />
 <br><br>
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 </td>
 </tr>
