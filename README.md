@@ -1,220 +1,108 @@
+<div align="center">
 
-```python
-class Drake:                         
-    def __init__(self, name, course, role, learning, email, os):  
-        self.name = name                                                      #+-:-+*@@%###%#*
-        self.course = course                                                #%##*+=-*#%%@@@@@%##
-        self.role = role                                                   ###%%%%%#+=*#%%@@@##%
-        self.learning = learning                                          #####%@@%#*-. .:=+*%@@%%
-        self.email = email                                                ##%%%@@@#+-.   .:--+#@@#
-        self.os = os                                                      #%@@@@@*++++**+---=**#%%
-                                                                          #%@@@@+--=+-+==-:++===%
-    def motto(self):                                                      #%%@@#:::-====-. .+#*+=
-        return "Code Learn Build Repeat"                                  #====+*:::........::----
-                                                                          #===+==---:..  -+==+----
-me = Drake(                                                               #:-=+==---:....-===-::-
-    "Drake Delos Reyes",                                                   #--==-----=**++++++--
-    "BS Information Technology",                                              #==--=----===---
-    "Cybersecurity Enthusiast",                                               #-=++==----==---
-    "Artificial Intelligence / Machine Learning",                              #---==+******+==
-    "maccogoth@gmail.com",                                                    #----========-
-    "Windows | Linux"                                                         #:------=--==--
-)                                                                           #*::--------===-=*#
-                                                                     #:-+##%#----------==-=+%%#%%##*-:
-print(me.motto())                                                #:::::=#%%%%%*=-------====+%%%%%%%#+-==+
-                                                              # ...::-===+++*#%%@%#+=------=*%@@%%@@@@%%*+++
-                                                             #-------=+*#+-*#%%@@@@@@%%###%@@@@@%%@@@@@%#+++*
-                                                             #**+++=+++++*#++*%%@@@@@@@@@@@@@@@@@@%%@@@@%#**#*
-                                                             #+*##*++#%#+*#***#%@@@@@@@@@@@@@@@@@@@@@@@@@%*%#*@
-                                                             #+*#%#**#%%*******%%@@@@@@@@@@@@@@@@@@@@@@@%%%@%%%
-                                                             #**#%%%%#%%#*#*+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@#@%
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=DrakeDev23;Cybersecurity+Enthusiast;Full-Stack+Developer;IT+Student" alt="Typing SVG" />
+
+</div>
+
+---
+
+```bash
+┌──(drake㉿kali)-[~]
+└─$ whoami
+drake_delos_reyes
+
+┌──(drake㉿kali)-[~]
+└─$ cat profile.txt
+Full-Stack Developer | Cybersecurity Enthusiast | IT Student
+Focus: CTF • Penetration Testing • Secure Backend Development
+Status: Available for collabs and CTFs
+
+┌──(drake㉿kali)-[~]
+└─$ nmap -sV --top-ports 5 github.com/DrakeDev23
+
+PORT      STATE   SERVICE
+80/tcp    open    frontend    -> React / Vue / Tailwind
+443/tcp   open    backend     -> Django / FastAPI / ASP.NET
+3306/tcp  open    database    -> PostgreSQL / MySQL / Redis
+8080/tcp  open    devops      -> Docker / AWS / Vercel
+1337/tcp  open    security    -> Burp Suite / Nmap / Metasploit
+
+┌──(drake㉿kali)-[~]
+└─$ _
 ```
-<div align="center">
-
-<p align="center">
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/commits.svg" alt="Commits Banner" width="22%">
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/stars.svg" alt="Stars Banner" width="22%">
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/prs.svg" alt="PRs Banner" width="22%">
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/DrakeDev23/repos.svg" alt="Repos Banner" width="22%">
-</p>
-
-
-</div>
-<div align="center">
-
- <!-- TryHackMe -->
-  <a href="https://tryhackme.com/p/maccogoth" target="_blank" rel="noopener noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/maccogoth.png" alt="TryHackMe Profile Badge" />
-  </a>
-
-<br>
-  <!-- Hack The Box -->
-
-<a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70" target="_blank">
-  <img src="https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-
-
-
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Daily Used-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Daily Used" />
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-
-
-</div>
 
 ---
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="34%">
 
-<img src="https://img.shields.io/badge/Frontend-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Frontend" /><br>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
+**Core Languages & Logic**
 
-</div>
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php" />
 
----
+</td>
+<td align="center" width="33%">
 
-<div align="center">
+**Frameworks & Web**
 
-<img src="https://img.shields.io/badge/Backend_&_Databases-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,fastapi,dotnet,html,css" />
 
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://learn.microsoft.com/en-us/aspnet/">
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-<a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-<a href="#"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</a>
+</td>
+<td align="center" width="33%">
 
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-<a href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-<a href="https://www.sqlite.org/">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-<a href="https://redis.io/">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</a>
-<a href="https://firebase.google.com/">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-</a>
-<a href="https://neon.tech/">
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white"/>
-</a>
+**Databases & Cloud**
 
-<a href="https://supabase.com/">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,docker,aws,vercel,netlify,github" />
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<table align="center" width="100%">
+<tr>
+<td align="center" width="34%">
 
-<div align="center">
- <p align="center">
-  <img src="https://img.shields.io/badge/Others-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Others" /><br>
+**OS & Shell**
 
-  <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+<br><br>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-  </a>
+</td>
+<td align="center" width="33%">
 
-  <!--
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  -->
-
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </a>
-</p>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Tools_and_Platforms-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Tools and Platforms" />
-
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.netlify.com"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity_tools-374151?style=for-the-badge&color=000000&labelColor=000000" alt="Cybersecurity tools" />
-
-<br>
+**Cybersecurity Arsenal**
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zenmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+<br><br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go_Buster-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<br><br>
 <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
 <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-</div>
+</td>
+<td align="center" width="33%">
+
+**Tools & Design Suite**
+
+<img src="https://skillicons.dev/icons?i=figma,git,postman" />
+<br><br>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -222,22 +110,19 @@ print(me.motto())                                                #:::::=#%%%%%*=
 
 <h2>Connect with me</h2>
 
-<a href="https://github.com/DrakeDev23">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/0_dr4k3/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/D3f4vltV">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/stephen.mart.98">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/maccogoth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+<a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+<a href="https://www.instagram.com/0_dr4k3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/D3f4vltV"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/stephen.mart.98"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
 ---
 
+<div align="center">
 
-![](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrakeDev23&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9F5D4&currStreakNum=C9F5D4&sideNums=C9F5D4&dates=6B7280" alt="GitHub Streak" width="80%" />
+
+</div>
