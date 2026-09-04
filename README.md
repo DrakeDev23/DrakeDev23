@@ -46,7 +46,7 @@ PORT      STATE   SERVICE
 
 **Frameworks & Web**
 
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,flask,fastapi,dotnet,html,css&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,flask,fastapi,laravel,dotnet,html,css&perline=4" />
 
 </td>
 <td align="center" width="33%">
