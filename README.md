@@ -107,14 +107,10 @@ PORT      STATE   SERVICE
 
 <h2>Connect with me</h2>
 
-<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/maccogoth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
-<a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
-<a href="https://www.instagram.com/0_dr4k3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/D3f4vltV"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.facebook.com/stephen.mart.98"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://tryhackme.com/p/maccogoth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a> <a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a> <a href="https://www.linkedin.com/in/zedrick-dwyn-manguilimotan-85540b3b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/0_dr4k3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/stephen.mart.98"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
+
 
 ---
 
