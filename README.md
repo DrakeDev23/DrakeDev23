@@ -4,102 +4,59 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused;Cybersecurity+Enthusiast;CTF+Player;Full-Stack+Developer;IT+Student" alt="Typing SVG" />
 </div>
 
----
 
-```bash
-┌──(drake㉿kali)-[~]
-└─$ whoami
-drake_delos_reyes
-
-┌──(drake㉿kali)-[~]
-└─$ cat profile.txt
-Full-Stack Developer | Cybersecurity Enthusiast | IT Student
-Focus: CTF • Penetration Testing • Secure Backend Development
-Status: Available for collabs and CTFs
-
-┌──(drake㉿kali)-[~]
-└─$ nmap -sV --top-ports 5 github.com/DrakeDev23
-
-PORT      STATE   SERVICE
-80/tcp    open    frontend    -> React / Vue / Tailwind
-443/tcp   open    backend     -> Django / FastAPI / ASP.NET
-3306/tcp  open    database    -> PostgreSQL / MySQL / Redis
-8080/tcp  open    devops      -> Docker / AWS / Vercel
-1337/tcp  open    security    -> Burp Suite / Nmap / Metasploit
-
-┌──(drake㉿kali)-[~]
-└─$ _
-```
-
----
-
-<table align="center" width="100%">
+<div align="center">
+<table>
 <tr>
-<td align="center" width="34%">
+<td align="center" valign="middle">
 
-**Core Languages & Logic**
+<br>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php&perline=4" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php,react,vue,tailwind,bootstrap,django,flask,fastapi,laravel,dotnet,html,css,mysql,postgres,sqlite,redis,firebase,supabase,docker,aws,vercel,cloudflare,netlify,github,figma,git,postman&perline=6" />
+<br>
+<img src="https://cdn.simpleicons.org/neon/00E599" width="48" height="48" alt="Neon" />
 
-</td>
-<td align="center" width="33%">
-
-**Frameworks & Web**
-
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,django,flask,fastapi,laravel,dotnet,html,css&perline=4" />
-
-</td>
-<td align="center" width="33%">
-
-**Databases & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,firebase,supabase,docker,aws,vercel,cloudflare,netlify,github&perline=4" />
-<img src="https://cdn.simpleicons.org/neon/00E599" width="40" height="40" alt="Neon"/>
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="34%">
-
-**OS & Shell**
-
-<img src="https://skillicons.dev/icons?i=linux,bash" />
 <br><br>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" valign="middle">
 
-**Cybersecurity Arsenal**
+<br>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zenmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Go_Buster-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/ffuf-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
 
+<br><br>
+
 </td>
-<td align="center" width="33%">
+<td align="center" valign="middle">
 
-**Tools & Design Suite**
+<br>
 
-<img src="https://skillicons.dev/icons?i=figma,git,postman" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash&perline=2" />
+<br>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" />
+
 <br><br>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
