@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused;Cybersecurity+Enthusiast;CTF+Player;Full-Stack+Developer;IT+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Focused;Cybersecurity+Enthusiast;CTF+Player;Full-Stack+Developer;IT+Student" alt="Typing SVG" />
 
 </div>
 
----
-
 <div align="center">
 
-<h2>Tech Stack</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=FF2A6D&center=true&vCenter=true&width=600&height=50&lines=%3E+TECH_STACK_;%3E%3E+T3CH_ST4CK_;%3E+TECH_STACK_" alt="TECH_STACK" />
 
 <table>
 
@@ -121,9 +119,22 @@
 
 <div align="center">
 
-<h2>Connect with me</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%3E+LANGUAGES_USED_;%3E%3E+L4NGU4G3S_US3D_;%3E+LANGUAGES_USED_" alt="LANGUAGES_USED" />
 
-<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://tryhackme.com/p/maccogoth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a> <a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a> <a href="https://www.linkedin.com/in/zedrick-dwyn-manguilimotan-85540b3b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/0_dr4k3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/stephen.mart.98"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<table>
+<tr>
+<td align="center" valign="middle" width="50%">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrakeDev23&layout=donut&langs_count=8&hide_border=false&border_color=00F0FF&border_radius=0&bg_color=0B0B14&title_color=00F0FF&text_color=E6F1FF&card_width=400&custom_title=%3E%20MOST_USED" alt="Most used languages" />
+
+</td>
+<td align="center" valign="middle" width="50%">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrakeDev23&layout=compact&langs_count=10&hide_border=false&border_color=FF2A6D&border_radius=0&bg_color=0B0B14&title_color=FF2A6D&text_color=E6F1FF&card_width=400&custom_title=%3E%20BREAKDOWN" alt="Language breakdown" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -131,6 +142,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrakeDev23&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9F5D4&currStreakNum=C9F5D4&sideNums=C9F5D4&dates=6B7280" alt="GitHub Streak" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=FF2A6D&center=true&vCenter=true&width=600&height=50&lines=%3E+CONTRIBUTIONS_;%3E%3E+C0NTR1BUT10NS_;%3E+CONTRIBUTIONS_" alt="CONTRIBUTIONS" />
+
+<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/github/followers/DrakeDev23?style=for-the-badge&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=0B0B14&color=7B2FF7" /></a>
+<img src="https://komarev.com/ghpvc/?username=DrakeDev23&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B0B14&color=FF2A6D" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=DrakeDev23&hide_border=true&border_radius=0&background=0B0B14&stroke=1C3A44&ring=FF2A6D&fire=FCEE0A&currStreakLabel=FCEE0A&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B8794" alt="GitHub Streak" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%3E+CONNECT_;%3E%3E+C0NN3CT_;%3E+CONNECT_" alt="CONNECT" />
+
+<a href="https://github.com/DrakeDev23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://tryhackme.com/p/maccogoth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a> <a href="https://profile.hackthebox.com/profile/019de429-0cbc-7392-875d-b33d13d49a70"><img src="https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a> <a href="https://www.linkedin.com/in/zedrick-dwyn-manguilimotan-85540b3b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/0_dr4k3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/stephen.mart.98"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
