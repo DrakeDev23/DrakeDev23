@@ -119,22 +119,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%3E+LANGUAGES_USED_;%3E%3E+L4NGU4G3S_US3D_;%3E+LANGUAGES_USED_" alt="LANGUAGES_USED" />
-
-<table>
-<tr>
-<td align="center" valign="middle" width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrakeDev23&layout=donut&langs_count=8&hide_border=false&border_color=00F0FF&border_radius=0&bg_color=0B0B14&title_color=00F0FF&text_color=E6F1FF&card_width=400&custom_title=%3E%20MOST_USED" alt="Most used languages" />
-
-</td>
-<td align="center" valign="middle" width="50%">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrakeDev23&layout=compact&langs_count=10&hide_border=false&border_color=FF2A6D&border_radius=0&bg_color=0B0B14&title_color=FF2A6D&text_color=E6F1FF&card_width=400&custom_title=%3E%20BREAKDOWN" alt="Language breakdown" />
-
-</td>
-</tr>
-</table>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrakeDev23&layout=compact&langs_count=10&hide_border=false&border_color=FF2A6D&border_radius=0&bg_color=0B0B14&title_color=FF2A6D&text_color=E6F1FF&card_width=400&custom_title=%3E%20MOST_USED" alt="Most used languages" />
 
 </div>
 
