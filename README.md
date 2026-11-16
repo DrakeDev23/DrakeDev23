@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=2000&color=FF2A6D&center=true&vCenter=true&width=600&height=50&lines=%3E+TECH_STACK_;%3E%3E+T3CH_ST4CK_;%3E+TECH_STACK_" alt="TECH_STACK" />
 
 <table>
 
